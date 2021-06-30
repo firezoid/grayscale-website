@@ -14,7 +14,7 @@ A free, multipurpose, one page Bootstrap theme featuring a dark color scheme and
 3. Js
 ```
 
-## Tutorial :- [Here](https://www.youtube.com/watch?v=oQ0Lc1rtgnw&t=2s)
+## Tutorial :- [Here](https://youtu.be/tgfQRy-qYW0)
 
 ### Authors
 * **Firezoid** - [View](https://is.gd/firezoid)
